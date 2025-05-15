@@ -1,6 +1,5 @@
 package com.example.planetapp
 
-// MainActivity.kt
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
