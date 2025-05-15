@@ -4,10 +4,11 @@ Aplicativo feito com Jetpack Compose que mostra planetas do sistema solar.
 
 ## 📸 Tela inicial
 
-![Tela inicial](Captura de tela 2025-05-15 140844.png)
+![Tela 1](tela_1.png)
 
 tela ao clicar na foto
 
 ## 📸 Tela secundaria
 
-![Tela inicial](Captura de tela 2025-05-15 140831.png)
+![Tela 2](tela_2.png)
+
