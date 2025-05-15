@@ -1,4 +1,3 @@
-// ui/screens/HomeScreen.kt
 package com.example.planetapp.ui.screens
 
 import androidx.compose.foundation.lazy.LazyColumn
