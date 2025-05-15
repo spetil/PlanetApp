@@ -1,4 +1,3 @@
-// ui/components/BottomNavigationBar.kt
 package com.example.planetapp.ui.components
 
 import androidx.compose.material3.*
