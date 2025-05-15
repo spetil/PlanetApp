@@ -1,4 +1,3 @@
-// ui/screens/DetailsScreen.kt
 package com.example.planetapp.ui.screens
 
 import androidx.compose.foundation.Image
