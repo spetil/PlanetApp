@@ -1,4 +1,3 @@
-// navigation/NavGraph.kt
 package com.example.planetapp.navigation
 
 import androidx.compose.material3.ExperimentalMaterial3Api
